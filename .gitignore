@@ -1,0 +1,27 @@
+# Python environment and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Uploads, job state, and transcripts
+work/
+
+# Downloaded model weights
+models/
+
+# Local recordings
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg
+*.aac
+
+# Secrets
+.env
+*.token
